@@ -1,4 +1,4 @@
-module Math
+module Math 
 
   def self.abs(content)
     if content.is_a?(Numeric)
