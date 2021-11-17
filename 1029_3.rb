@@ -7,7 +7,7 @@ end
 
 kitty = Cat.new
 nancy = Cat.new
-# p kitty
+p kitty #<Cat:0x00007fffca529ac8>
 p kitty.hello #self
 #印出'123'
 
