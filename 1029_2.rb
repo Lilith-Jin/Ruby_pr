@@ -1,6 +1,6 @@
 class Cat
   def hello
-      self #誰呼喊他他就是誰
+    return  self  #誰呼喊他他就是誰
     # '123'
   end
 end
@@ -10,7 +10,7 @@ nancy = Cat.new
 p kitty
 p kitty.hello #self
 #會印出相同位置
-
+puts kitty
 p nancy
 p nancy.hello
 #會印出相同位置
