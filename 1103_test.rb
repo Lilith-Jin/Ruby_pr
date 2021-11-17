@@ -27,4 +27,4 @@ p hash
 
 puts hash 
 #印出{"cat"=>0, "dog"=>1, "wombat"=>2}
-#為什麼key不是 :cat
+#舊式寫法
